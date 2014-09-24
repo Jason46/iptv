@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version 1.1.1/53.17 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version version 1.1.1/49pre -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channels>
   <channel id="TV1">
     <display-name lang="en">TV1</display-name>
     <url>http://www.astro.com.my</url>
@@ -1168,4 +1169,5 @@
     <display-name lang="hr">CINESTAR PREMIERE 2</display-name>
     <url>http://www.bnet.hr</url>
   </channel>
+  </channels>
 </tv>
